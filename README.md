@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Matheus Geraldi
 
-<!--
-**geraldimatheus/geraldimatheus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Desenvolvimento de Sistemas (IFSP) 
+💻 Foco em desenvolvimento web e dados  
+📍 São Paulo, Brasil  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+
+Atuo com suporte em automação de processos (RPA), trabalhando na análise e resolução de incidentes e manutenção de fluxos automatizados.
+
+Tenho experiência com SQL Server, utilizando consultas para análise e manipulação de dados, e estou em evolução para desenvolvimento web, construindo projetos práticos com HTML, CSS e JavaScript.
+
+---
+
+## 🛠️ Tecnologias
+
+![HTML](https://img.shields.io/badge/HTML5-orange)
+![CSS](https://img.shields.io/badge/CSS3-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+![SQL Server](https://img.shields.io/badge/SQL--Server-red)
+
+---
+
+## 📌 Projetos em destaque
+
+🔹 **Gerenciador de Usuários**  
+Aplicação web com manipulação de DOM, validações e interface interativa  
+👉 https://geraldimatheus.github.io/user-manager/  
+
+🔹 **Portfólio Pessoal**  
+Site para apresentação profissional e projetos  
+👉 https://geraldimatheus.github.io/Portfolio-Pessoal/  
+
+---
+
+## 📫 Contato
+
+- 💼 LinkedIn: https://www.linkedin.com/in/geraldimatheus/  
+- 📧 Email: geraldimatheus07@gmail.com  
