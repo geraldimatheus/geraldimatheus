@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Matheus Geraldi
 
 🎓 Estudante de Desenvolvimento de Sistemas (IFSP)  
-💻 Desenvolvendo projetos focados em C#, .NET e System Design
+💻 Desenvolvedor focado em C#, .NET e System Design
 📍 São Paulo, Brasil  
 
 ---
