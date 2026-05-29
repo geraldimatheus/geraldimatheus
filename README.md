@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Matheus Geraldi
 
 🎓 Estudante de Desenvolvimento de Sistemas (IFSP)  
-💻 Desenvolvedor C#/.NET em evolução  
+💻 Desenvolvendo projetos focados em C#, .NET e System Design
 📍 São Paulo, Brasil  
 
 ---
@@ -10,21 +10,21 @@
 
 Atualmente atuo com suporte e automação de processos (RPA), trabalhando na análise e resolução de incidentes, manutenção de fluxos automatizados e consultas em SQL Server.
 
-Paralelamente, venho aprofundando meus estudos em desenvolvimento de software com foco em C#, .NET e Programação Orientada a Objetos (POO), criando projetos práticos para fortalecer lógica de programação, arquitetura de código e boas práticas.
+Paralelamente, venho aprofundando meus estudos em desenvolvimento de software com foco em C#, .NET e Programação Orientada a Objetos (POO), desenvolvendo projetos voltados para arquitetura de software, organização de sistemas e modelagem de aplicações backend.
 
-Também possuo experiência com desenvolvimento web básico utilizando HTML, CSS e JavaScript.
+Também possuo contato com desenvolvimento web utilizando HTML, CSS e JavaScript.
 
 ---
 
-## 🧠 Atualmente estudando
+## 📚 Áreas de estudo
 
-- C#
-- .NET
-- Programação Orientada a Objetos (POO)
-- Estruturação de projetos
-- Lógica de sistemas
-- SQL Server
-- Git e GitHub
+* C# e .NET
+* Programação Orientada a Objetos (POO)
+* Arquitetura de Software
+* System Design
+* SQL Server
+* Organização de aplicações backend
+* Git e GitHub
 
 ---
 
@@ -44,11 +44,17 @@ Também possuo experiência com desenvolvimento web básico utilizando HTML, CSS
 ## 📌 Projetos em destaque
 
 ### ⚔️ CombatCore
-Sistema de combate RPG em turnos desenvolvido em C# com foco em:
-- Programação Orientada a Objetos
-- Interfaces e polimorfismo
-- Estrutura modular
-- Sistema de efeitos e habilidades
+
+Sistema modular de combate RPG em turnos desenvolvido em C# com foco em arquitetura de software, organização de sistemas e modelagem de gameplay.
+
+Principais conceitos aplicados:
+
+* Programação Orientada a Objetos
+* Interfaces e herança
+* System Design
+* IA contextual para tomada de decisão
+* Sistema modular de habilidades e efeitos
+* Separação de responsabilidades
 
 👉 https://github.com/geraldimatheus/combat-core
 
@@ -70,11 +76,11 @@ Site para apresentação profissional e projetos.
 
 ## 📈 Objetivos atuais
 
-- Evoluir como desenvolvedor backend
-- Aprender arquitetura de software
-- Fortalecer fundamentos de C#
-- Construir projetos cada vez mais completos
-- Iniciar estudos em APIs e banco de dados com .NET
+* Aprofundar conhecimentos em backend com .NET
+* Evoluir em arquitetura de software e System Design
+* Aprimorar modelagem e organização de sistemas
+* Desenvolver aplicações cada vez mais escaláveis
+* Evoluir na construção de projetos autorais
 
 ---
 
